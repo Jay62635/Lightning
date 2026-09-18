@@ -27,7 +27,6 @@ public void draw(){
     line(startX, startY, endX, endY);
     startX = endX;
     startY = endY;
-    System.out.println(endX);
   }
   stroke(#52D137);
   fill(#52D137);
